@@ -1,6 +1,6 @@
 # Introduction
 
-!!! abstract "File Allocation Table
+!!! abstract "File Allocation Table"
 
 I could make you read all week on the topic of partition tables and their underlying metadata. You would sleep well but learn nothing! By getting you to extract metadata structures, map and understand them, we can ensure a basic understanding. Before you start, you need to make sure you have understood my notes on file systems. If you approach this methodically, it will all work fine.
 
